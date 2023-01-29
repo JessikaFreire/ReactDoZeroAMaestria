@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça Jeans",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "All Star",
+      "price": 299.9
+    },
+    {
+      "name": "test",
+      "price": "39",
+      "id": 5
+    },
+    {
+      "name": "TEST",
+      "price": "58.7",
+      "id": 6
+    }
+  ]
+}
